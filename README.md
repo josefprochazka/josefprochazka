@@ -10,24 +10,11 @@ I am a **.NET / Fullstack Developer** with experience in backend and frontend de
 
 ### 🚀 Highlight Repositories
 
-Here is a selection of my most interesting projects, applications, and integrations:
+A hand-picked selection of what I build when I'm having fun or solving real-world problems:
 
-1. **[highway-speed-performance-pipeline](https://github.com/josefprochazka/highway-speed-performance-pipeline)**
-   * *Description:* Real-time speed enforcement pipeline: gRPC streaming telemetry, .NET 9 Docker processor, concurrent ingestion, REST API, & WPF dashboard.
-2. **[songs-names-analyzer](https://github.com/josefprochazka/songs-names-analyzer)**
-   * *Description:* Song tracking & setlist planning app: NestJS + Prisma backend with a React & Vite frontend.
-3. **[Cryptanalysis](https://github.com/josefprochazka/Cryptanalysis)**
-   * *Description:* VŠB-TUO Diploma thesis (2019): Educational .NET application for cryptanalysis of classical ciphers and frequency analysis.
-4. **[devodash](https://github.com/josefprochazka/devodash)**
-   * *Description:* Kids' daily Bible "quiet time" PWA optimized for iPad: interactive scripture memory games and verses.
-5. **[TipsterApp](https://github.com/josefprochazka/TipsterApp)**
-   * *Description:* Café tip & feedback tracking platform built in .NET 8 Blazor with REST API, background services, and flexible storage.
-6. **[ConsoleTetris](https://github.com/josefprochazka/ConsoleTetris)**
-   * *Description:* My first C# project (2017): Pure hand-coded console Tetris. A substantial, fully working app built with zero AI and lots of StackOverflow.
-
----
-
-### 📬 Get in touch
-
-* 📧 Email: josefprochazk@gmail.com
-* 📱 Phone: +420 736 186 033
+1. **[highway-speed-performance-pipeline](https://github.com/josefprochazka/highway-speed-performance-pipeline)** – Because someone needs to catch those speeders in real-time. Heavy .NET 9 backend with gRPC streaming and a slick WPF dashboard.
+2. **[songs-names-analyzer](https://github.com/josefprochazka/songs-names-analyzer)** – Started as a simple counter, evolved into a full-blown setlist and practice planner for our team. NestJS & React doing the heavy lifting.
+3. **[Cryptanalysis](https://github.com/josefprochazka/Cryptanalysis)** – My 2019 university thesis. Proof that I survived advanced math and could write complex .NET apps long before AI took over.
+4. **[devodash](https://github.com/josefprochazka/devodash)** – Built for kids to enjoy their daily Bible quiet time on an iPad without getting bored. Interactive games meet Scripture.
+5. **[TipsterApp](https://github.com/josefprochazka/TipsterApp)** – A practical little platform for tracking tips and feedback in cafés, built with .NET 8 Blazor.
+6. **[ConsoleTetris](https://github.com/josefprochazka/ConsoleTetris)** – Ah, 2017. Pure, raw C# code written during my very first steps in programming. Powered entirely by human sweat, determination, and a mountain of StackOverflow tabs. Zero AI.
