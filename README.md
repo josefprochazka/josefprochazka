@@ -11,8 +11,8 @@ I am a **.NET / Fullstack Developer** with experience in backend and frontend de
 
 ### 💼 Work Experience
 
-**WAN Investment** · Data Analyst · 2017 – 2018
-My first professional experience. I worked with financial data: took Excel spreadsheets as input and built programmatic calculations to produce derived results and reports.
+**WAN Investment** · Data Analyst / Junior .NET Developer · 2017 – 2018
+My first professional role. I wrote C# / .NET applications that took Excel spreadsheets as input and automated the calculations, producing derived results and reports from financial data.
 [waninvestment.cz](https://www.waninvestment.cz/)
 
 **Baader Computer** · .NET Developer · 2018 – 2025
